@@ -1,4 +1,4 @@
-# windows-phone-forensic
+# Windows Phone Logical
 WP Logical is a contacts and appointments acquisition tool designed to run under Windows Phone 8.1.
 To use this tool make sure you developper unlocked the device and sideload the application.
 
