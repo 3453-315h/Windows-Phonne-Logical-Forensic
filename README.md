@@ -21,8 +21,8 @@ WP Logical will extract the following information (if found) regarding each appo
 -   Replay Time
 -   Is Organized by User?
 -   Is Canceled?
--   More Details
--   
+-   More details
+
 # Contacts
 -   Display Name
 -   First Name
