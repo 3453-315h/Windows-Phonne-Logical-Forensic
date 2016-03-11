@@ -6,7 +6,7 @@ Select data you want to acquire (contacts and/or appointements) then click "Aqui
 
 Inside the created folder you can find appointments__MDY__HMMSS_PM/AM.html and contacts_MDY__HMMSS_PM/AM.html
 
-# Appointements 
+# Appointments 
 
 WP Logical will extract the following information (if found) regarding each appointement starting from 01/01/CurrentYear at 00:00:00 to 31/12/CurrentYear at 00:00:00
 
