@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOUFIANE-WS</Machine>
+    <WindowsUser>Soufiane</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d242189b-e76f-4121-9d89-268bb64c27b3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>74073E4BCCA04B7716D6A632D206006D07BEF984A61ADA8B5BA309C5AF491640</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d242189b-e76f-4121-9d89-268bb64c27b3_1.0.0.0_neutral__8g3gmch1k6zgt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d242189b-e76f-4121-9d89-268bb64c27b3_8g3gmch1k6zgt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d242189b-e76f-4121-9d89-268bb64c27b3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Soufiane</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-08T20:38:47.871</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\bin\Debug\Contact_Appointements.Windows.exe">
+      <PackagePath>Contact_Appointements.Windows.exe</PackagePath>
+      <Modified>2016-03-08T20:38:47.409</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\bin\Debug\Contact_Appointements.Windows.xr.xml">
+      <PackagePath>Contact_Appointements.Windows.xr.xml</PackagePath>
+      <Modified>2016-03-08T10:58:19.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-03-08T20:38:47.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-03-08T20:38:47.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-08T20:38:47.633</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

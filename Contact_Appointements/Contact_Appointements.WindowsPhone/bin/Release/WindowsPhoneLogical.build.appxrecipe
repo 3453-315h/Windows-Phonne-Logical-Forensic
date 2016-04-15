@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SOUFIANE-WS</Machine>
+    <WindowsUser>Soufiane</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7fb7953d-d377-4182-bab7-3b746595b93e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\bin\Release\Contact_Appointements.WindowsPhone.exe">
+      <PackagePath>Contact_Appointements.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\bin\Release\Contact_Appointements.WindowsPhone.xr.xml">
+      <PackagePath>Contact_Appointements.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

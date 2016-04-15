@@ -1,0 +1,9 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Debug\filemap.scale-100.pri"			"resources.pri"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Debug\PackageLayout\Assets\Square71x71Logo.scale-100.png"			"Assets\Square71x71Logo.scale-100.png"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Debug\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Debug\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

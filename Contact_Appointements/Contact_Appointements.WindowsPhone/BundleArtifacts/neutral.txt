@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\bin\Release\WindowsPhoneLogical_1.0.0.2_AnyCPU.appx
+SymbolPackage=C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\AppPackages\WindowsPhoneLogical_1.0.0.2_Test\WindowsPhoneLogical_1.0.0.2_AnyCPU.appxsym

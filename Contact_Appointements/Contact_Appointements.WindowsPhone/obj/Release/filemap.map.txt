@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\filemap.pri"			"resources.pri"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Contact_Appointements.WindowsPhone.xr.xml"			"Contact_Appointements.WindowsPhone.xr.xml"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Contact_Appointements.WindowsPhone.exe"			"Contact_Appointements.WindowsPhone.exe"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\Soufiane\Documents\Visual Studio 2015\Projects\Contact_Appointements\Contact_Appointements\Contact_Appointements.WindowsPhone\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
